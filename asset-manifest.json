@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ant-design-customized/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ant-design-customized/static/js/main.cfd2148a.chunk.js",
+    "main.js.map": "/ant-design-customized/static/js/main.cfd2148a.chunk.js.map",
+    "runtime-main.js": "/ant-design-customized/static/js/runtime-main.5a877357.js",
+    "runtime-main.js.map": "/ant-design-customized/static/js/runtime-main.5a877357.js.map",
+    "static/css/2.c1fbeb22.chunk.css": "/ant-design-customized/static/css/2.c1fbeb22.chunk.css",
+    "static/js/2.d9d0bd2f.chunk.js": "/ant-design-customized/static/js/2.d9d0bd2f.chunk.js",
+    "static/js/2.d9d0bd2f.chunk.js.map": "/ant-design-customized/static/js/2.d9d0bd2f.chunk.js.map",
+    "index.html": "/ant-design-customized/index.html",
+    "precache-manifest.d7e4945c692cc50154728ddd370b638a.js": "/ant-design-customized/precache-manifest.d7e4945c692cc50154728ddd370b638a.js",
+    "service-worker.js": "/ant-design-customized/service-worker.js",
+    "static/css/2.c1fbeb22.chunk.css.map": "/ant-design-customized/static/css/2.c1fbeb22.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/ant-design-customized/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d9d0bd2f.chunk.js.LICENSE.txt": "/ant-design-customized/static/js/2.d9d0bd2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a877357.js",
+    "static/css/2.c1fbeb22.chunk.css",
+    "static/js/2.d9d0bd2f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cfd2148a.chunk.js"
+  ]
+}
